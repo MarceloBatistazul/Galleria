@@ -84,6 +84,6 @@ Se tiver sugestões ou quiser contribuir, fique à vontade! 💡✨
 ### 💬 Dúvidas ou Sugestões?
 Sinta-se à vontade para abrir uma issue ou entrar em contato! 😃📩
 
-📌 _Desenvolvido com 💙 por Marcelo Batista_ 🚀
+📌 _Desenvolvido com 💙 e ☕ por Marcelo Batista_ 🚀
 
 
